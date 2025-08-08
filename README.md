@@ -1,2 +1,2 @@
 # TRJ-Bank-Project
-This project works on codes and scripts necessary for MD simulation of neural proteins
+We will work on codes and scripts necessary for MD simulation, analysis, visualization and deployment on the website
